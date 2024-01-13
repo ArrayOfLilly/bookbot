@@ -1,4 +1,4 @@
 books/
-**/.swp
-**/icon?
-**/.DS_Store
+.swp
+icon?
+.DS_Store
